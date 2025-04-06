@@ -1,6 +1,6 @@
 # Superstore_Sales_Dashboard📊
 ---
-Analysed U.S. Superstore Sales Data by first preprocessing data into MS Excel and then visualizing it into PowerBI. Finally did a 15 day forecast for the comming year i.e. 2021.
+Analysed U.S. Superstore Sales Data by first preprocessing data into MS Excel and then visualizing it into PowerBI. Finally did a 15 day forecasts for the comming year i.e. 2021.
 
 ---
 **Tools Used** -
